@@ -19,6 +19,19 @@ The format provided is one file per user containing the IDs of every tweet by th
 
 # How to use
 
-Please cite the following publication (Master thesis) if you use any of the versions of the Heldugazte corpus:
+Please cite the following publication if you use any of the versions of the Heldugazte corpus:
 
-+ Joseba Fernández de Landa (2018). Gazteak eta euskara sare sozialetan. Zer, nori, nork: euskarazko txio formal eta informalak sailkatuz eta konparatuz. Master Thesis, University of the Basque Country UPV/EHU. (https://addi.ehu.es/handle/10810/29605)
+```
+@Article{info10060212,
+  AUTHOR = {Fernandez de Landa, Joseba and Agerri, Rodrigo and Alegria, Iñaki},
+  TITLE = {Large Scale Linguistic Processing of Tweets to Understand Social Interactions among Speakers of Less Resourced Languages: The Basque Case},
+  JOURNAL = {Information},
+  VOLUME = {10},
+  YEAR = {2019},
+  NUMBER = {6},
+  ARTICLE-NUMBER = {212},
+  URL = {https://www.mdpi.com/2078-2489/10/6/212},
+  ISSN = {2078-2489},
+  DOI = {10.3390/info10060212}
+}
+```
